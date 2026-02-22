@@ -79,7 +79,7 @@ const SolutionsSection = () => {
                     </span>
                   ))}
                 </div>
-                <Button variant="ghost" className="text-primary hover:text-primary p-0 h-auto font-semibold text-sm group/btn">
+                <Button variant="ghost" className="text-primary hover:text-primary hover:bg-transparent p-0 h-auto font-semibold text-sm group/btn">
                   Learn More <ArrowRight className="ml-1 h-4 w-4 transition-transform group-hover/btn:translate-x-1" />
                 </Button>
               </div>
