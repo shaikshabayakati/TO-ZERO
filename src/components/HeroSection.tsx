@@ -58,7 +58,7 @@ const HeroSection = () => {
             <Button
               size="lg"
               variant="outline"
-              className="rounded-full px-8 text-base border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground"
+              className="rounded-full px-8 text-base border-2 border-primary-foreground/50 text-primary-foreground bg-transparent hover:bg-primary-foreground hover:text-foreground transition-all duration-300"
               asChild
             >
               <a href="#contact">Contact Us</a>
